@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace NetLab1_2
 {
-    public partial class Form : System.Windows.Forms.Form
+    public partial class Form1 : System.Windows.Forms.Form
     {
-        public Form()
+        public Form1()
         {
             InitializeComponent();
         }

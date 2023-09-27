@@ -1,6 +1,6 @@
 ﻿namespace NetLab1_2
 {
-    partial class Form
+    partial class Form1
     {
         /// <summary>
         /// Required designer variable.
@@ -57,7 +57,7 @@
             this.ClientSize = new System.Drawing.Size(861, 464);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button1);
-            this.Name = "Form";
+            this.Name = "Form1";
             this.Text = "Form for Lab_1.2";
             this.ResumeLayout(false);
             this.PerformLayout();
