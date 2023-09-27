@@ -1,4 +1,4 @@
-﻿namespace FormsLab
+﻿namespace NetLab1_2
 {
     partial class Form
     {

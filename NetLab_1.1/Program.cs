@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleLab
+namespace NetLab1_1
 {
     class Program
     {
